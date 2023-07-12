@@ -1,0 +1,67 @@
+.head h1 {
+    color: coral;
+    text-align: center;
+    font-size: 45px;
+}
+
+.navbar {
+    text-align: center;
+}
+.navbar a {
+    padding: 5px;
+}
+
+.caption {
+    text-align: center;
+}
+.caption h1 {
+    color: crimson;
+    font-size: 35px;
+}
+
+.product-info {
+    text-align: center;
+    margin-top: 45px;
+}
+
+.product-info h3{
+   color: coral;
+}
+
+.product-info ul {
+    list-style-position: inside;
+}
+
+.products {
+    text-align: center;
+}
+
+.products img{
+    height: 350px;
+}
+
+.products button {
+    background-color: burlywood;
+    padding:10px 25px;
+    border-radius: 10px;
+    border: none;
+}
+.products button:hover{
+    opacity: .8;
+}
+
+.products-item {
+    margin-top: 20px;
+}
+
+.vizyon h3 {
+    color: darksalmon;
+    font-size: 25px;
+}
+.misyon h3 {
+    color: darksalmon;
+    font-size: 25px;
+}
+#about-me p {
+    font-weight: bold;
+}
